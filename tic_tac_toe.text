@@ -1,0 +1,11 @@
+Start with breaking down what you need to do/questions you
+need to answer
+    1. how you win => function
+    2.  What the board look likes after being played => this could be an array
+    3.  Turns => boolean, might need a loop
+    4.  who plays first
+    5.  how many players => might need a loop
+    6.  one play per tile/what a turn looks like?  => perhaps a loop
+    7.  what happens when someone takes a turn  => function
+    8.  what the physical board looks like => function
+    9.  who goes first => x always goes first/is player 1
